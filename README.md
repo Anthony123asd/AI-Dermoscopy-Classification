@@ -5,6 +5,8 @@ This project is submitted as my final project in Digital Talent Scholarship 2019
 
 For working on this project, I use Jupyter Notebook as the Application to run the python code.
 
+Download the images here : PH2_dermoscopy.zip (http://bit.ly/2W0NTVk)
+
 The condition given for the projects are:
   - There are 600 images of breast cancer with 3 types (Common Nevus, Atypical Nevus, and Melanoma)
   - The images' formats are BMP and PPM
