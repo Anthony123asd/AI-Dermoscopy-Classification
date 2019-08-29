@@ -1,0 +1,207 @@
+Image Name,Histological Diagnosis,Common Nevus,Atypical Nevus,Melanoma,"Asymmetry
+(0/1/2)","Pigment Network
+(AT/T)","Dots/Globules
+(A/AT/T)","Streaks
+(A/P)","Regression Areas
+(A/P)","Blue-Whitish Veil
+(A/P)",White,Red,Light-Brown,Dark-Brown,Blue-Gray,Black
+IMD003,,X,,,0,T,A,A,A,A,,,,X,,
+IMD009,,X,,,0,T,A,A,A,A,,,X,,,
+IMD016,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD022,,X,,,0,T,A,A,A,A,,,X,,,
+IMD024,,X,,,0,T,A,A,A,A,,,X,X,,
+IMD025,,X,,,0,T,T,A,A,A,,,X,,,
+IMD035,,X,,,2,T,A,A,A,A,,X,X,,,
+IMD038,,X,,,0,T,T,A,A,A,,,,X,,X
+IMD042,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD044,,X,,,0,T,T,A,A,A,,,,X,X,
+IMD045,,X,,,0,T,T,A,A,A,,,X,,,
+IMD050,,X,,,0,T,T,A,A,A,,,X,,,
+IMD092,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD101,,X,,,0,T,A,A,A,A,,,X,,,
+IMD103,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD112,,X,,,0,T,T,A,A,A,,X,X,X,,
+IMD118,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD125,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD132,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD134,,X,,,0,T,T,A,A,A,,X,X,X,,
+IMD135,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD144,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD146,,X,,,1,T,A,P,A,A,,X,X,X,,
+IMD147,,X,,,0,T,T,A,A,A,,,X,,,
+IMD150,,X,,,0,T,A,A,A,A,X,,,,X,
+IMD152,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD156,,X,,,0,T,T,A,A,A,,,X,,,
+IMD159,,X,,,0,T,T,A,A,A,,,X,,,
+IMD161,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD162,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD175,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD177,,X,,,0,T,A,A,A,A,,,X,X,,
+IMD182,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD198,,X,,,0,T,T,A,A,A,,,X,,,
+IMD200,,X,,,0,T,T,A,A,A,,,X,,,
+IMD010,,X,,,0,T,A,A,A,A,,,X,,,
+IMD017,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD020,,X,,,0,T,T,A,A,A,,,,X,,X
+IMD039,,X,,,0,T,T,A,A,A,,,,X,,
+IMD041,,X,,,0,T,T,A,A,A,,,,X,,X
+IMD105,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD107,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD108,,X,,,1,T,T,A,A,A,,,X,X,,
+IMD133,,X,,,0,T,A,A,A,A,,,X,,,
+IMD142,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD143,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD160,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD173,,X,,,0,T,T,A,A,A,,,X,,,
+IMD176,,X,,,0,T,AT,A,A,A,,,X,X,,
+IMD196,,X,,,0,T,A,A,A,A,,,X,,,
+IMD197,,X,,,0,T,AT,A,A,A,,,,X,,X
+IMD199,,X,,,0,T,T,A,A,A,,,X,,,
+IMD203,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD204,,X,,,0,T,AT,A,A,A,,,X,X,,
+IMD206,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD207,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD208,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD364,,X,,,0,T,A,A,A,A,,,X,X,,
+IMD365,,X,,,0,T,A,A,A,A,,,X,X,,
+IMD367,,X,,,0,T,A,A,A,A,,,,X,,
+IMD371,,X,,,0,T,A,A,A,A,,,,X,,
+IMD372,,X,,,0,T,A,A,A,A,,,X,,,
+IMD374,,X,,,0,T,A,A,A,A,,,X,X,,
+IMD375,,X,,,0,T,A,A,A,A,,,,X,,
+IMD378,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD379,,X,,,0,T,A,A,A,A,,,X,X,,
+IMD380,,X,,,0,T,A,A,A,A,,,,X,,
+IMD381,,X,,,0,T,T,A,A,A,,,X,,,
+IMD383,,X,,,0,T,A,A,A,A,,,X,,,
+IMD384,,X,,,0,T,A,A,A,A,,,,X,,
+IMD385,,X,,,0,T,T,A,A,A,,,X,X,,
+IMD389,,X,,,0,T,T,A,A,A,,,,X,,
+IMD390,,X,,,0,T,A,A,A,A,,,X,,,
+IMD392,,X,,,0,T,AT,A,A,A,,,,X,,
+IMD394,,X,,,0,T,A,A,A,A,,,,X,,
+IMD395,,X,,,0,T,A,A,A,A,,,,X,,
+IMD397,,X,,,0,T,AT,A,A,A,,,,X,,
+IMD399,,X,,,0,T,A,A,A,A,,,X,X,,
+IMD400,,X,,,0,T,A,A,A,A,,,,X,,
+IMD402,,X,,,0,T,A,A,A,A,,,,X,,
+IMD002,,,X,,1,AT,A,A,A,A,,,X,X,,
+IMD004,,,X,,1,AT,A,A,A,A,,,X,X,,
+IMD013,,,X,,1,AT,A,A,A,A,,,X,,,
+IMD015,,,X,,0,AT,A,A,A,A,,X,,,X,
+IMD019,,,X,,0,AT,T,A,A,A,,,,X,,
+IMD021,,,X,,0,AT,T,A,A,A,,,,X,,X
+IMD027,,,X,,0,AT,T,A,A,A,,,X,X,,
+IMD030,,,X,,0,AT,A,A,A,A,,,X,X,,
+IMD032,,,X,,1,AT,A,A,A,A,,,X,X,,
+IMD033,,,X,,2,AT,T,A,A,A,,,X,,,X
+IMD037,,,X,,1,AT,AT,A,A,A,,,X,X,,
+IMD040,,,X,,1,AT,T,A,A,A,,,X,X,,
+IMD043,,,X,,1,AT,T,A,A,A,,,,X,,X
+IMD047,,,X,,0,AT,A,A,A,A,,,X,X,,
+IMD048,,,X,,1,AT,AT,A,A,A,,,X,,,
+IMD049,,,X,,1,AT,A,A,A,P,,,,X,X,
+IMD057,Dysplastic Nevus,,X,,0,AT,A,A,A,A,,,,X,,X
+IMD075,,,X,,2,AT,AT,A,A,A,,,,X,,X
+IMD076,Blue Nevus,,X,,2,AT,A,A,A,A,,,,,X,
+IMD078,Intradermal Nevus,,X,,2,AT,AT,A,A,A,,,,,,X
+IMD120,,,X,,0,AT,A,A,A,A,,,X,X,,
+IMD126,,,X,,1,AT,A,A,A,A,,,X,,,X
+IMD137,,,X,,1,AT,AT,A,A,A,,,X,X,,
+IMD138,,,X,,1,AT,AT,A,A,A,,,X,X,,
+IMD139,,,X,,0,AT,AT,P,A,A,,,,X,,X
+IMD140,,,X,,0,AT,A,P,A,A,,,,X,,X
+IMD149,,,X,,0,AT,T,A,A,A,X,,,X,X,
+IMD153,,,X,,1,AT,A,A,A,A,X,,X,,,
+IMD157,,,X,,2,AT,A,A,A,A,,,X,,X,
+IMD164,,,X,,0,AT,AT,A,A,A,,,X,X,,
+IMD166,,,X,,0,AT,AT,A,A,A,,,X,X,,
+IMD169,Dysplastic Nevus,,X,,0,AT,AT,P,A,P,,,,X,X,X
+IMD171,,,X,,0,AT,A,P,A,A,,X,,X,,X
+IMD210,Dysplastic Nevus,,X,,2,AT,A,P,A,P,,,,X,X,X
+IMD347,Intradermal Nevus,,X,,0,AT,AT,A,A,P,,,,X,X,
+IMD155,,,X,,0,T,AT,A,A,A,,,X,X,,
+IMD376,,,X,,0,T,A,P,A,A,,,,X,,
+IMD006,,,X,,2,AT,AT,A,A,A,,,X,X,,
+IMD008,,,X,,0,T,A,A,A,A,,,X,,,
+IMD014,,,X,,1,AT,AT,A,P,A,X,,X,X,,
+IMD018,,,X,,0,AT,AT,A,A,A,,,,X,,
+IMD023,,,X,,0,AT,A,A,A,A,,,X,,,
+IMD031,,,X,,0,AT,A,P,A,P,,,,X,X,
+IMD036,,,X,,0,AT,T,A,A,A,,,X,,,
+IMD154,,,X,,0,AT,A,A,P,A,X,,X,,,
+IMD170,,,X,,1,AT,AT,A,A,A,,,X,X,,
+IMD226,,,X,,1,AT,AT,A,A,A,,,X,X,,
+IMD243,,,X,,0,AT,AT,P,A,A,,X,,X,,
+IMD251,,,X,,1,AT,A,A,A,A,,,X,X,,
+IMD254,,,X,,2,AT,A,A,A,A,,,X,,,
+IMD256,,,X,,1,AT,A,P,A,A,,,,X,,
+IMD278,,,X,,1,AT,A,A,A,A,,,X,X,,
+IMD279,,,X,,1,AT,A,A,A,A,,,X,X,,
+IMD280,,,X,,1,AT,A,A,A,A,,,X,X,,
+IMD304,,,X,,2,AT,AT,A,A,A,,,X,X,,
+IMD305,,,X,,2,AT,AT,A,A,A,,,X,X,,
+IMD306,,,X,,0,AT,A,P,A,A,,,,X,,
+IMD312,,,X,,2,AT,A,A,A,A,,,X,X,,
+IMD328,,,X,,0,AT,AT,A,A,A,,,,X,,
+IMD331,,,X,,0,AT,AT,A,A,A,,,,X,,
+IMD339,,,X,,2,AT,AT,A,A,A,,,X,X,,
+IMD356,,,X,,0,AT,A,A,A,A,,,X,X,,
+IMD360,,,X,,0,AT,A,A,A,A,,,,X,,
+IMD368,,,X,,2,AT,A,A,A,A,,,X,X,,
+IMD369,,,X,,0,AT,AT,A,A,A,,,X,X,,X
+IMD370,,,X,,2,AT,AT,A,A,A,,,X,,,
+IMD382,,,X,,1,AT,AT,A,A,A,,,X,X,,
+IMD386,,,X,,0,AT,A,P,A,A,,,,X,,
+IMD388,,,X,,2,AT,AT,A,A,A,,,X,X,,
+IMD393,,,X,,0,AT,A,P,A,A,,X,X,,,
+IMD396,,,X,,1,AT,A,A,A,A,,,,X,,
+IMD398,,,X,,1,AT,A,A,A,A,,,,X,,
+IMD427,,,X,,0,AT,AT,A,A,A,,,X,X,,X
+IMD430,,,X,,0,AT,A,P,P,A,X,,X,X,,
+IMD431,,,X,,1,AT,AT,A,A,A,,,X,X,,
+IMD432,,,X,,2,AT,AT,P,A,A,,,X,X,,
+IMD433,,,X,,1,AT,A,P,A,A,,,X,X,,
+IMD434,,,X,,2,AT,AT,P,A,P,,,X,X,X,
+IMD436,Dysplastic Nevus,,X,,1,AT,A,A,A,A,,,X,X,,
+IMD437,Dysplastic Nevus,,X,,2,AT,AT,A,P,A,,,,X,,X
+IMD058,Melanoma,,,X,0,AT,A,A,P,P,X,X,,X,X,
+IMD061,,,,X,2,AT,A,A,P,P,,,X,,X,
+IMD063,Melanoma,,,X,2,AT,AT,A,A,P,,,X,X,,
+IMD064,Melanoma,,,X,2,AT,A,P,P,P,X,,X,,X,
+IMD065,,,,X,2,AT,A,A,P,P,,,,X,,X
+IMD080,Melanoma,,,X,2,AT,A,P,P,P,,X,,X,,X
+IMD085,,,,X,2,AT,A,A,A,P,,,,,X,X
+IMD088,Melanoma,,,X,2,AT,AT,P,P,P,X,,,X,X,X
+IMD090,Melanoma,,,X,2,AT,AT,P,P,P,,,,X,X,X
+IMD091,,,,X,0,T,AT,A,A,P,,,,,X,X
+IMD168,,,,X,2,AT,A,P,P,P,X,,,X,X,X
+IMD211,Nodular Melanoma,,,X,1,AT,A,A,A,P,,,,,X,X
+IMD219,Melanoma,,,X,2,AT,AT,A,P,P,,,X,X,X,X
+IMD240,Melanoma,,,X,2,AT,A,P,P,P,,,,,X,X
+IMD242,Lentigo Maligna,,,X,2,AT,A,A,A,A,,,X,X,,X
+IMD284,Melanoma,,,X,2,AT,AT,A,A,P,,,,X,X,
+IMD285,Melanoma,,,X,0,AT,A,A,A,P,,,X,X,X,
+IMD348,Melanoma,,,X,2,AT,AT,P,P,P,X,,,X,X,X
+IMD349,Melanoma,,,X,2,AT,AT,A,P,P,,,X,X,,
+IMD403,Melanoma,,,X,2,AT,A,A,P,A,X,,X,X,,
+IMD404,Lentigo Maligna,,,X,2,AT,AT,A,A,A,X,,X,X,,
+IMD405,Nodular Melanoma,,,X,2,AT,AT,A,A,P,,,X,X,X,X
+IMD407,Melanoma,,,X,2,AT,AT,P,A,A,,,X,X,,X
+IMD408,Melanoma,,,X,2,AT,AT,P,P,P,X,,X,X,X,X
+IMD409,Melanoma,,,X,2,AT,A,P,P,P,X,,X,X,X,X
+IMD410,Melanoma,,,X,1,AT,AT,A,A,A,,,X,X,,
+IMD413,Lentigo Maligna,,,X,2,AT,AT,A,A,A,,,X,X,,
+IMD417,Melanoma,,,X,2,AT,AT,A,P,P,X,,X,X,X,X
+IMD418,Melanoma,,,X,2,AT,A,A,A,A,,,X,X,,X
+IMD419,Melanoma,,,X,2,AT,A,A,A,P,,,X,X,X,X
+IMD406,,,,X,2,AT,AT,A,P,A,X,,X,X,,
+IMD411,Lentigo Maligna,,,X,2,AT,AT,A,A,A,,,X,X,,
+IMD420,Melanoma,,,X,2,AT,AT,P,P,P,X,,X,X,X,
+IMD421,Melanoma,,,X,2,AT,AT,A,P,P,X,,X,X,X,
+IMD423,Melanoma,,,X,0,AT,AT,A,A,P,,,X,X,X,
+IMD424,Melanoma,,,X,2,AT,AT,P,A,P,,,X,X,X,X
+IMD425,Melanoma,,,X,2,AT,AT,A,P,P,,,X,X,X,X
+IMD426,Melanoma,,,X,2,AT,A,A,P,A,,,X,X,,
+IMD429,,,,X,0,AT,A,P,A,P,,,X,X,X,X
+IMD435,Lentigo Maligna,,,X,2,AT,A,A,A,P,,,X,X,X,X
